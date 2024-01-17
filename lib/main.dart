@@ -156,24 +156,29 @@ class MyApp extends StatelessWidget {
                           fontSize: 60,
                           color: Colors.red,
                           fontWeight: FontWeight.bold,
+                          letterSpacing: 5,
                         ),
                       ),
 
                       TextSpan(
-                        text: ("\t\tMultimedia Education\n"),
+                        text: ("\t\t  Multimedia Education\n"),
                         style: TextStyle(
                           fontSize: 30,
                           color: Colors.red,
                           fontWeight: FontWeight.bold,
+                          height: 0.7,
+                          letterSpacing: 1,
                         ),
                       ),
 
                       TextSpan(
-                        text: ('Shaping "skills"for"scaling" higher....!!!'),
+                        text: ('  Shaping "skills"for"scaling" higher....!!!'),
                         style: TextStyle(
                           fontSize: 20,
                           color: Colors.red,
                           fontWeight: FontWeight.bold,
+                          height: 1.6,
+                          letterSpacing: 0.5,
                         ),
                       ),
                     ]
