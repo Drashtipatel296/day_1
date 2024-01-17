@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/Drashtipatel296/day_1/assets/143180636/798373dd-9d03-49fd-9937-7f1a6641ce6a" width=22%, height=35%>
 <img src="https://github.com/Drashtipatel296/day_1/assets/143180636/37d9709d-46f4-4b7f-9231-4f99f965a4a9" width=22%, height=35%>
 <img src="https://github.com/Drashtipatel296/day_1/assets/143180636/36dfa86c-d0ac-4636-bbba-1aa0006d590c" width=22%, height=35%>
-<img src="https://github.com/Drashtipatel296/day_1/assets/143180636/54cc23dd-e02b-499a-bae7-4be2a3499e03" width=22%, height=35%>
+<img src="https://github.com/Drashtipatel296/day_1/assets/143180636/23ee49c8-db8e-480a-936d-74958ead03a6" width=22%, height=35%>
 </p>
 
 
